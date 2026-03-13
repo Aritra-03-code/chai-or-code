@@ -1,2 +1,3 @@
 i am learning git.
 i want to push my code in repositary.
+now we have to only do "git push" to push any messege.
